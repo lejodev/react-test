@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lejodev/react-test/static/css/main.cf84ba0c.chunk.css",
+    "main.js": "/lejodev/react-test/static/js/main.76aca06b.chunk.js",
+    "main.js.map": "/lejodev/react-test/static/js/main.76aca06b.chunk.js.map",
+    "runtime-main.js": "/lejodev/react-test/static/js/runtime-main.f6367004.js",
+    "runtime-main.js.map": "/lejodev/react-test/static/js/runtime-main.f6367004.js.map",
+    "static/js/2.4358fcba.chunk.js": "/lejodev/react-test/static/js/2.4358fcba.chunk.js",
+    "static/js/2.4358fcba.chunk.js.map": "/lejodev/react-test/static/js/2.4358fcba.chunk.js.map",
+    "static/js/3.4d7f85ba.chunk.js": "/lejodev/react-test/static/js/3.4d7f85ba.chunk.js",
+    "static/js/3.4d7f85ba.chunk.js.map": "/lejodev/react-test/static/js/3.4d7f85ba.chunk.js.map",
+    "index.html": "/lejodev/react-test/index.html",
+    "static/css/main.cf84ba0c.chunk.css.map": "/lejodev/react-test/static/css/main.cf84ba0c.chunk.css.map",
+    "static/js/2.4358fcba.chunk.js.LICENSE.txt": "/lejodev/react-test/static/js/2.4358fcba.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/lejodev/react-test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6367004.js",
+    "static/js/2.4358fcba.chunk.js",
+    "static/css/main.cf84ba0c.chunk.css",
+    "static/js/main.76aca06b.chunk.js"
+  ]
+}
